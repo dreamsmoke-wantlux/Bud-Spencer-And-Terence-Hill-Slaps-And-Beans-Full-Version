@@ -242,4 +242,4 @@ This repository serves as the official landing page for Bud Spencer & Terence Hi
 **Get the most recent version of Bud Spencer & Terence Hill - Slaps And Beans today!**
 
 ---
-**Last updated:** 2026-10-05 17:45:51 UTC
+**Last updated:** 2026-10-05 23:38:08 UTC
